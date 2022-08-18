@@ -1,0 +1,12 @@
+@import 'font.scss';
+
+body {
+	font-family: Roboto;
+	color: #fff;
+	font-size: 50px;
+	background: url("@img/saporo.jpg") 0 0 no-repeat;
+	span {
+		color: red;
+	}
+}
+
